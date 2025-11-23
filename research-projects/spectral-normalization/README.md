@@ -3,7 +3,7 @@
 
 **Write-Up PDF:** [*Stabilizing GANs: A Case for Spectral Normalization*](paper.pdf)
 
-**Poster PDF:** [*TikZposter — Spectral Normalization Overview*]](poster.pdf)
+**Poster PDF:** [*TikZposter — Spectral Normalization Overview*](poster.pdf)
 :contentReference[oaicite:1]{index=1}
 
 ---
