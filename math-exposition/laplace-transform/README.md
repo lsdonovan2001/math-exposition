@@ -3,7 +3,8 @@
 This document presents a clear, pedagogy-focused derivation of the Laplace Transform, written to make the topic intuitive for students encountering it for the first time.  
 Rather than beginning with a formal definition, the write-up builds the transform from first principles and shows how the core ideas naturally arise.
 
-📄 **PDF:** [An Intuitive Approach to the Laplace Transform](../../53b02c80-6b91-410a-a16f-3324d68396d6.pdf)
+📄 **PDF:** [An Intuitive Approach to the Laplace Transform](An_Intuitive_Approach_to_the_Laplace_Transform.pdf
+)
 
 ---
 
