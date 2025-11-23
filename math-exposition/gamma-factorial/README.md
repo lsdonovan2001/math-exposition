@@ -1,6 +1,6 @@
 # Extending the Factorial: The Pi Function and the Gamma Function  
 *A pedagogical derivation of Euler’s extension of the factorial*  
-:contentReference[oaicite:1]{index=1}
+
 
 This exposition explores how one can meaningfully extend the factorial function to non-integer values.  
 Rather than beginning with the Gamma function as a definition, the document builds the entire construction from intuition:
