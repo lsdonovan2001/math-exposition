@@ -1,10 +1,9 @@
 # Spectral Normalization for Generative Adversarial Networks  
 *A mathematical and empirical study of stabilizing GAN training*  
 
-**Write-Up PDF:** *Stabilizing GANs: A Case for Spectral Normalization*  
-:contentReference[oaicite:0]{index=0}
+**Write-Up PDF:** [*Stabilizing GANs: A Case for Spectral Normalization*](paper.pdf)
 
-**Poster PDF:** *TikZposter — Spectral Normalization Overview*  
+**Poster PDF:** [*TikZposter — Spectral Normalization Overview*]](poster.pdf)
 :contentReference[oaicite:1]{index=1}
 
 ---
