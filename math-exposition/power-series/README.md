@@ -28,7 +28,7 @@ The tone is teaching-focused:
 This mirrors the teaching philosophy I use with students: build intuition first, formalize afterward.
 
 ### 📄 Document
-**PDF:** [power_taylor_series.pdf](../power_taylor_series.pdf)
+**PDF:** [power_taylor_series.pdf](/power_taylor_series.pdf)
 
 ### 🎯 Why This Matters
 
