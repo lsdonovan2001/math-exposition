@@ -2,7 +2,7 @@
 
 This document develops power series and Taylor series from first principles, focusing on intuition and discovery rather than rote memorization.
 
-### 🌱 What This Write-Up Emphasizes
+### What This Write-Up Emphasizes
 - How polynomials naturally lead to power series  
 - Why convergence depends on the radius/interval  
 - How the geometric series informs general power series  
@@ -15,7 +15,7 @@ This document develops power series and Taylor series from first principles, foc
   - \( \cos(x) \)  
   - \( \ln(x) \)
 
-### 🧠 Pedagogical Approach
+### Pedagogical Approach
 
 The tone is teaching-focused:  
 - Little reliance on formal theorems or pre-existing machinery  
@@ -27,10 +27,10 @@ The tone is teaching-focused:
 
 This mirrors the teaching philosophy I use with students: build intuition first, formalize afterward.
 
-### 📄 Document
+### Document
 **PDF:** [power_taylor_series.pdf](/power_taylor_series.pdf)
 
-### 🎯 Why This Matters
+### Why This Matters
 
 Taylor series are foundational in:
 - differential equations  
